@@ -1,0 +1,28 @@
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+}
+.second{
+    color: cadetblue;
+    /* display: none; */
+    /* visibility: hidden; */
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.blog{
+    margin:40px;
+    border: 20px solid salmon;
+    box-shadow: 10px 10px 20px black;
+
+}
+.incident{
+    color: brown;
+    display: inline;
+    border: 2px solid purple;
+    margin: auto;
+    /* display: block; */
+}
+li{
+ display: inline;
+}
