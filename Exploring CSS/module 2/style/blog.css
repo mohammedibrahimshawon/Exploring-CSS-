@@ -26,3 +26,24 @@ h3{
 li{
  display: inline;
 }
+.header{
+    color: red;
+    height:400px;
+    /* background-color: bisque; */
+    /* background-image: url(p2.jpg); */
+    background-image: url('../img01.jpg');
+
+    /* background-repeat: repeat-x; */
+    /* background-size: contain; */
+    background-size: cover;
+    /* background-size: 400px; */
+
+    
+}
+.dolor{
+    color:black;
+    border: 2px solid tomato;
+    display: inline;
+
+}
+
